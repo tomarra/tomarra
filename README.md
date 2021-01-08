@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm the Engineering Manager at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
+I'm the Head of Program Management at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
 
 [![Very Good Ventures](https://github.com/VGVentures/Very-Good-Brand/raw/main/logos/icon-unicorn/unicorn-vgv-black-inset-round.png)](https://verygood.ventures)
 
