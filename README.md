@@ -10,7 +10,7 @@ I'm the Head of Program Management at [Very Good Ventures](https://verygood.vent
 - 🌱 I’m currently learning: Dart & Flutter
 - 📫 How to reach me: tarra3@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am the President of Windy City Curling Club 🥌
+- ⚡ Fun fact: My hobbies include Triathlon 🏊‍♂️🚴🏃‍♂️ and Curling 🥌
 
 ---
 
