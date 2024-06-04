@@ -14,7 +14,17 @@ I'm the Head of Program Management at [Very Good Ventures](https://verygood.vent
 
 ---
 
-[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=tomarra&count_private=true&theme=default&show_icons=true)](https://github.com/tomarra)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tomarra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tomarra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomarra&show_icons=true" />
+</picture>
 
 [logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
