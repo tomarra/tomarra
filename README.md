@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm the Head of Program Management at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
+I'm the Director of Product Development at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
 
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
