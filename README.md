@@ -2,10 +2,10 @@
 
 ---
 
-- 🌱 I’m currently learning: Dart & Flutter
+- 🏢 Currently Founding Operations Lead at Shorebird
 - 📫 How to reach me: tarra3@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My hobbies include Triathlon 🏊‍♂️🚴🏃‍♂️ and Curling 🥌
+- ⚡ Fun fact: My hobbies include Curling 🥌, Triathlon 🏊‍♂️🚴🏃‍♂️ and Diving 🤿
 
 ---
 
